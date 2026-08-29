@@ -36,8 +36,10 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsb3182&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsb3182&layout=compact&theme=tokyonight" height="150"/>
+  <!-- GitHub 기본 통계 -->
+  <img src="https://github-stats-extended.vercel.app/api?username=jsb3182&show_icons=true&theme=tokyonight" height="150"/>
+  <!-- 주요 사용 언어 통계 -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jsb3182&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---

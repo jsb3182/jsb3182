@@ -44,4 +44,4 @@
 
 ### 📬 Contact
 * **GitHub**: [github.com/jsb3182](https://github.com/jsb3182)
-* **Email**: `본인의 이메일 주소를 입력해주세요`
+* **Email**: `jounsoung1234@gmail.com`
